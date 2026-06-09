@@ -46,7 +46,18 @@
 |--------|------|------|
 | [🧩 replit_algorithm](https://github.com/Sockbee/replit_algorithm) | 알고리즘 문제풀이 | Python, C++ |
 | [☕ umc-9th-springboot-sockbee](https://github.com/UMC-CAU/umc-9th-springboot-sockbee) | UMC CAU 9기 Spring Boot 파트 | Java |
+| [☕ umc-10th-springboot-Sockbee](https://github.com/UMC-CAU/umc-10th-springboot-Sockbee) | UMC CAU 10기 Spring Boot 파트 | Java |
 | [🚀 Proovy-server](https://github.com/Team-Proovy/Proovy-server) | Team Proovy 백엔드 서버 | Java, PostgreSQL |
+
+---
+
+<h3 align="center">📊 solved.ac 📊</h3>
+
+<div align="center">
+  <a href="https://solved.ac/profile/samsockbee">
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=samsockbee" alt="Solved.ac Profile"/>
+  </a>
+</div>
 
 ---
 
@@ -71,7 +82,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sockbee&theme=onedark&column=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=Sockbee&theme=onedark&column=7&no-frame=true)](https://github.com/lucthienphong1120/github-trophies)
 
 </div>
 
