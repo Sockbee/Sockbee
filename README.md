@@ -2,7 +2,7 @@
 
 # 🧦 Hello, I'm Sockbee!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7A700&center=true&vCenter=true&width=500&lines=CS+Student+%F0%9F%93%96;Backend+Developer+in+Progress+%E2%98%95;Algorithm+Lover+%F0%9F%A7%A9;Always+Buzzing+with+Curiosity+%F0%9F%90%9D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7A700&center=true&vCenter=true&width=500&lines=CS+Student+%F0%9F%93%96;Backend+Developer+in+Progress+%E2%98%95;Spring+AI+Developer+%F0%9F%A4%96;Algorithm+Lover+%F0%9F%A7%A9;Always+Buzzing+with+Curiosity+%F0%9F%90%9D" alt="Typing SVG" />
 
 </div>
 
@@ -11,7 +11,8 @@
 ## 👋 About Me
 
 - 🎓 CS 3학년 재학 중
-- ☕ **Java / Spring Boot** 백엔드 개발 공부 중
+- ☕ **Java / Spring Boot** 기반 백엔드 개발 중
+- 🤖 **Team Wevo**에서 Spring AI 기반 AI 퍼실리테이터 개발 담당
 - 🧩 알고리즘 문제풀이를 꾸준히 연습 중 ([replit_algorithm](https://github.com/Sockbee/replit_algorithm))
 - 📚 운영체제, 네트워크 등 CS 기초를 탄탄히 쌓는 중 ([cs_study_5th](https://github.com/Sockbee/cs_study_5th))
 - 🚀 **UMC CAU 9기** 스프링부트 파트 활동
@@ -30,13 +31,29 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### Frameworks & Tools
+### Frameworks, AI & Tools
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
+
+---
+
+## 🤖 Current Project
+
+### [Wevo](https://github.com/Team-Wevo/Wevo-backend)
+
+> 팀원들의 흩어진 의견을 AI가 정리하고 조율해 하나의 결과물로 완성하는 협업 워크스페이스
+
+- **담당:** Spring AI 기반 AI 퍼실리테이터 백엔드 개발
+- **핵심 기능:** 쟁점·충돌·공백 감지, 의견 종합, 근거 기반 초안 생성
+- **개발 내용:** Provider 독립 LLM Gateway, 구조화 출력 검증, 프롬프트·스키마 버전 관리, AI 호출 사용량·비용·재시도 감사 로그
+- **기술:** Java 21, Spring Boot 4.1, Spring AI 2.0, PostgreSQL, Redis
 
 ---
 
@@ -48,6 +65,7 @@
 | [☕ umc-9th-springboot-sockbee](https://github.com/UMC-CAU/umc-9th-springboot-sockbee) | UMC CAU 9기 Spring Boot 파트 | Java |
 | [☕ umc-10th-springboot-Sockbee](https://github.com/UMC-CAU/umc-10th-springboot-Sockbee) | UMC CAU 10기 Spring Boot 파트 | Java |
 | [🚀 Proovy-server](https://github.com/Team-Proovy/Proovy-server) | Team Proovy 백엔드 서버 | Java, PostgreSQL |
+| [🤖 Wevo-backend](https://github.com/Team-Wevo/Wevo-backend) | Spring AI 기반 협업 워크스페이스 백엔드 | Java, Spring Boot, Spring AI |
 
 ---
 
