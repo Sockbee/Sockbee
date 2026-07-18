@@ -76,14 +76,6 @@
 
 </div>
 
-<h3 align="center">🌱 Contribution Graph</h3>
-
-<div align="center">
-  <a href="https://github.com/Sockbee">
-    <img src="https://ghchart.rshah.org/2EA043/Sockbee" alt="Sockbee's GitHub Contribution Chart"/>
-  </a>
-</div>
-
 ---
 
 ## 🏆 GitHub Trophies
